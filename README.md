@@ -73,7 +73,7 @@
 
 :: Cloudflare DNS
 --dns-addr 1.1.1.1 --dns-port 53
-
+```
 
 
 
