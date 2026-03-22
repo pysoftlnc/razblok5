@@ -16,7 +16,7 @@
 | `list-general.txt` | Список доменов (Discord, Telegram, YouTube, WhatsApp, Roblox, Cloudflare) |
 | `general.bat` | Готовый файл для запуска GoodbyeDPI |
 
-> [!CATION]
+> [!IMPORTANT]
 > ПЕРЕД СТАРТОМ ОБЯЗАТЕЛЬНО ПРОЧИТАЙТЕ ЭТОТ ТЕКСТ!!!
 > НЕ СОГЛАШАЙТЕСЬ на обновление, если запрашивают
 > Если вы уже обновили: скачайте программу заново
